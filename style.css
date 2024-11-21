@@ -88,7 +88,7 @@ header .header-rightSide-search svg{
 
 .hero-section {
   height: 80vh; /* or any specific height */
-  background-image: url("https://www.riotgames.com/darkroom/1920/473940aa97c92dba80df6ab990a76a08:225667c2e31271a4180a2828215b4a47/screenshot-2024-11-15-at-3-30-00-pm.png");
+  background-image: url("./images/heroBackground.png");
   background-size: cover;
   background-position: center;
   width: 100%;
@@ -148,7 +148,7 @@ header .header-rightSide-search svg{
 }
 .Whats-happening-section{
   height: 100vh;
-  background-image: url("https://www.riotgames.com/assets/img/arc2/4fc41b662c875cf1d00e2aa786a2cb76/whatshappening-min.png");
+  background-image: url("./images/gamesSectionBackground.png");
   background-size: cover;
   background-position: center;
   color: white;
@@ -208,7 +208,7 @@ header .header-rightSide-search svg{
 .Whats-happening-section .section-content .right-part .card{
   display: flex;
   width: 100%;
-  height: 15rem;
+  height: 12rem;
   justify-content: space-between;
   background-color: rgba(46, 61, 103, .5);
   border-radius: 0.5rem;
@@ -229,7 +229,7 @@ header .header-rightSide-search svg{
 
 .games-section{
   /* height: 100vh; */
-  background-image: url("https://www.riotgames.com/assets/img/arc2/c60afea567606edccee5e5923447d4d4/products-min.png");
+  background-image: url("./images/entertainmenBackground.png");
   background-size: cover;
   background-position: center;
   color: white;
